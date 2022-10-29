@@ -1,0 +1,18 @@
+Spaceship game
+
+PC- spaceship
+NPC - Enemy spaceship , meteors
+Goal - To avoid the spaceships
+Rules - Our spaceship moves with arrow keys
+	Shoot bullets with spacebar
+	The game is over when all the lives are lost.
+	Bullets have a fixed limit.
+	We get an extra bullet after hitting the other spaceships.
+Feedback - Score : if the npc is hit by the bullet , we get a point.
+	   Lives : if we are hit by the npc , we loose a life.
+	   Audio and visual feedback
+Adaptivity : Increase the rate of NPCs.
+Chance - Npcs would spawn randomly.
+Skill - The speed of the player to either destroy or avoid the NPCs.
+Story - A person is trying to reach some other planet. Aliens on that planet do not want the person to enter their planet.
+	So the aliens are sending spaceships to kill the person.
